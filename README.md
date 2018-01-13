@@ -10,19 +10,19 @@ By collecting behavioral health risk data at the state and local level, BRFSS ha
 ## Trends over the years 2012 - 2016 across United States
 
 ### 2012
-![MentalHealth2012](Images/Mental Health Issues across US for 2012.png)
+![MentalHealth2012](Images/MentalHealth2012.png)
 
 ### 2013
-![MentalHealth2013](Images/Mental Health Issues across US for 2013.png)
+![MentalHealth2013](Images/MentalHealth2013.png)
 
 ### 2014
-![MentalHealth2014](Images/Mental Health Issues across US for 2014.png)
+![MentalHealth2014](Images/MentalHealth2014.png)
 
 ### 2015
-![MentalHealth2015](Images/Mental Health Issues across US for 2015.png)
+![MentalHealth2015](Images/MentalHealth2015.png)
 
 ### 2016
-![MentalHealth2016](Images/Mental Health Issues across US for 2016.png)
+![MentalHealth2016](Images/MentalHealth2016.png)
 
 
 * Other Trends based on Filters such as Age, Employment Status, Race, Gender, Rural or Urban and Health Coverage has been plotted and the analysis results are available under Analysis_Output.
