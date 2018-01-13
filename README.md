@@ -7,6 +7,25 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier s
 
 By collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities due to which we utilized the BRFSS survey as the key data source for this project.
 
+## Libraries Used
+
+* Pandas 
+* Numpy
+* Matplotlib
+* Seaborn
+* Ipywidgets
+* Plotly
+* IPython
+
+## Challenges faced during the Project
+
+* Converting SAS to csv file
+* Cleansing and extracting the necessary data from all the files
+* Considering the major factors that causes Mental Health Issue and calculating a weighter variable for Mental Health.
+* Implementing a Choropleth UX graph using Plotly
+* Implementing plots based on the User Select value
+
+
 ## Trends over the years 2012 - 2016 across United States
 
 ### 2012
